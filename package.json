@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "workspaces": ["harpnative", "harpguru-core"],
+  "nohoist": ["**/react-native", "**/react-native/**", "**/expo", "**/expo/**"]
+}

@@ -1,0 +1,6 @@
+[submodule "harpguru-core"]
+	path = harpguru-core
+	url = https://github.com/js-jslog/harpnative.git
+[submodule "harpnative"]
+	path = harpnative
+	url = https://github.com/js-jslog/harpnative.git
