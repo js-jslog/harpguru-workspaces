@@ -1,0 +1,9 @@
+node_modules/**/*
+npm-debug.*
+
+# vim
+*.swp
+*.swo
+
+# log files
+*.log
