@@ -4,3 +4,6 @@
 [submodule "harpguru-expo-boilerplate"]
 	path = harpguru-expo-boilerplate
 	url = https://github.com/js-jslog/harpnative.git
+[submodule "harpstrata"]
+	path = harpstrata
+	url = https://github.com/js-jslog/harpstrata.git
